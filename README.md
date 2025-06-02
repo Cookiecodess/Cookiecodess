@@ -13,3 +13,9 @@ aCrispyCookie.setStatus("baking");
 - An advocate for the open web! Always so inspired by all the awesome people who work hard to make the web -- and the tech space in general -- open and accessible to all.
 - Love art but I'm just not nearly as creative as people like louie zong ([youtube](https://www.youtube.com/everydaylouie)) and jack stauber ([youtube](https://www.youtube.com/jackstauber)). Thankfully I'm got pretty decent analytical skills, so I'll be honing my coding skills and try to incorporate my creativity and aesthetic sense into my programming projects!
 - I struggle to maintain a healthy sleep schedule. 
+
+# Awesome people
+
+These are people that I admire and feel like giving a shoutout to at the moment:
+
+- 3Blue1Brown/Grant Anderson. Math prodigy, top-notch educator. [[youtube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw), [website](https://www.3blue1brown.com/), [github](https://github.com/3b1b)]
