@@ -1,5 +1,5 @@
 ```ts
-const aCrispyCookie = new Cookie("chocolate chips");
+const aCrispyCookie = new Cookie("oatmeal chocolate");
 aCrispyCookie.setStatus("baking");
 ```
 
