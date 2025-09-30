@@ -7,6 +7,7 @@ aCrispyCookie.setStatus("baking");
 
 - Cookies are yum.
 - Pixel art is also yum.
+- Math is pretty cool, ngl
 - Certified nerd.
 - Constantly finding new things that interest me. I keep a list of topics that I plan to explore, and the speed with which it grows terrifies me. 
 - The more I know, the less I know. The less I know, the more I crave to know. And when I seek that knowledge, I discover more that I do not know. Trapped I am in this endless cycle.
@@ -18,3 +19,4 @@ aCrispyCookie.setStatus("baking");
 These are people that I admire and feel like giving a shoutout to at the moment:
 
 - 3Blue1Brown/Grant Anderson. Math prodigy, top-notch educator. [[youtube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw), [website](https://www.3blue1brown.com/), [github](https://github.com/3b1b)]
+- Neal. Creator of [neal.fun](neal.fun), a website full of humorous, at times oddly profound web games.
