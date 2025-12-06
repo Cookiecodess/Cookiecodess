@@ -11,7 +11,6 @@ aCrispyCookie.setStatus("a little burnt at the edges");
 - maybe i should stop wanting and start doing
 - but i'm broke, man
 - genuinely concerned that I will either end up jobless or a corporate slave.
-- I love art and music. I love lore-heavy video games with deep meanings and realistic characters. When will I be able to make such a game myself?
 
 # Awesome people
 
