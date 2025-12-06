@@ -8,7 +8,7 @@ aCrispyCookie.setStatus("a little burnt at the edges");
 - too many interests too little time
 - want to set up and self-host a personal site real bad
 - also kinda interested in building computers. or just weird little gadgets that no one will use but are fun to build nonetheless
-- maybe i should stop wanting and start building
+- maybe i should stop wanting and start doing
 - but i'm broke, man
 - genuinely concerned that I will either end up jobless or a corporate slave.
 - I love art and music. I love lore-heavy video games with deep meanings and realistic characters. When will I be able to make such a game myself?
