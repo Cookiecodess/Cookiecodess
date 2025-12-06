@@ -1,6 +1,6 @@
 ```ts
 const aCrispyCookie = new Cookie("oatmeal chocolate");
-aCrispyCookie.setStatus("baking");
+aCrispyCookie.setStatus("a little burnt at the edges");
 ```
 
 # About me
