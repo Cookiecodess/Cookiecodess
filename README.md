@@ -5,13 +5,10 @@ aCrispyCookie.setStatus("baking");
 
 # About me
 
-- Cookies are yum.
-- Pixel art is also yum.
-- Math is pretty cool, ngl
-- Certified nerd.
-- Constantly finding new things that interest me. I keep a list of topics that I plan to explore, and the speed with which it grows terrifies me. 
-- The more I know, the less I know. The less I know, the more I crave to know. And when I seek that knowledge, I discover more that I do not know. Trapped I am in this endless cycle.
-- The [indie web](https://indieweb.org/IndieWeb) thingy sounds so cool... but... it looks so hard to set up?!?! 
+- too many interests too little time
+- want to set up and self-host a personal site real bad
+- also kinda interested in building computers. or just weird little gadgets that no one will use but are fun to build nonetheless
+- genuinely concerned that I will either end up jobless or a corporate slave.
 - I love art and music. I love lore-heavy video games with deep meanings and realistic characters. When will I be able to make such a game myself?
 
 # Awesome people
