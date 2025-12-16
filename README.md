@@ -1,6 +1,6 @@
-```ts
-const aCrispyCookie = new Cookie("oatmeal chocolate");
-aCrispyCookie.setStatus("a little burnt at the edges");
+```dart
+final cookie = Cookie("oatmeal chocolate");
+cookie.setStatus("a little burnt at the edges");
 ```
 
 # About me
