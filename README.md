@@ -1,16 +1,16 @@
 ```dart
 final cookie = Cookie("oatmeal chocolate");
-cookie.setStatus("a little burnt at the edges");
+cookie.setStatus("freshly baked");
 ```
 
-# About me
+# Interests
 
-- too many interests too little time
-- want to set up and self-host a personal site real bad
-- also kinda interested in building computers. or just weird little gadgets that no one will use but are fun to build nonetheless
-- maybe i should stop wanting and start doing
-- but i'm broke, man
-- genuinely concerned that I will either end up jobless or a corporate slave.
+- Web development
+- Cybersecurity
+- Low-level programming
+- Linux
+- Open social networking protocols, like ATProtocol
+- Open source
 
 # Awesome people
 
