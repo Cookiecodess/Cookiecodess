@@ -5,7 +5,7 @@ cookie.setStatus("freshly baked");
 
 # Interests
 
-- Web development
+- Web development (frontend and backend)
 - Cybersecurity
 - Low-level programming
 - Linux
